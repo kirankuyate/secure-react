@@ -5,6 +5,8 @@ ReactJS is a popular JavaScript library for building user interfaces. It enables
 
 ReactJS is quite safe by design as long as it is used the way it’s meant to be used. For example, string variables in views are escaped automatically. However, as with all good things in life, it’s not impossible to mess things up.
 
+https://snyk.io/test/npm/react/15.3.0
+
 So, most of these issues are introduced by bad programming practices -
 
 - Creating React components from user-supplied objects
